@@ -1,7 +1,7 @@
 {
   "name": "@go_robots/react-native-paper-dropdown",
-  "version": "1.0.7",
-  "description": "Dropdown component using React Native Paper TextInput and Menu, now also with multiselect",
+  "version": "1.0.8",
+  "description": "A fork of https://github.com/fateh999/react-native-paper-dropdown that persists taps when keyboard is open",
   "files": [
     "dist"
   ],
