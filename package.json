@@ -1,5 +1,5 @@
 {
-  "name": "react-native-paper-dropdown",
+  "name": "@go_robots/react-native-paper-dropdown",
   "version": "1.0.7",
   "description": "Dropdown component using React Native Paper TextInput and Menu, now also with multiselect",
   "files": [
@@ -38,5 +38,8 @@
     "@types/react": "*",
     "@types/react-native": "*",
     "typescript": "*"
+  },
+  "directories": {
+    "doc": "docs"
   }
 }
