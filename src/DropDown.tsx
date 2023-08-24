@@ -176,6 +176,7 @@ const DropDown = forwardRef<TouchableWithoutFeedback, DropDownPropsInterface>(
         }}
       >
         <ScrollView
+          keyboardShouldPersistTaps="handled"
           bounces={false}
           style={{
             ...(dropDownContainerHeight
